@@ -7,3 +7,6 @@ Repo dedicated to stuff related to peerflix &amp; cie
 - https://github.com/siuying/peerflix-ios
 - https://github.com/jxcore/jxcore
 - https://github.com/janeasystems/nodejs-mobile
+
+- http://beunlike.com/faire-son-popcorn-time-en-10-min/
+- https://www.npmjs.com/package/peerflix
